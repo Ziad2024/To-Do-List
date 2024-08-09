@@ -12,7 +12,7 @@ Check out the live demo [here](https://to-do-list-woad-xi-96.vercel.app/).
 ![to do with react](https://github.com/user-attachments/assets/65fe7529-2412-4bd3-90a6-63e03697ca50)
 
 ## Features Implemented
-
+ 
  - **Add Task**: Users can add new tasks to the list.
  - **Edit Task**: Users can edit the text of existing tasks.
  - **Delete Task**: Users can remove tasks from the list.
