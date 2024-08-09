@@ -33,4 +33,5 @@ Check out the live demo [here](https://to-do-list-woad-xi-96.vercel.app/).
  - **Install Dependencies:**
    - `npm i`
 
- 
+### Run the project:
+ - `npm start`
