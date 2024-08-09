@@ -31,6 +31,6 @@ Check out the live demo [here](https://to-do-list-woad-xi-96.vercel.app/).
 ### Setup
 
 **Install Deendencies:**
- - npm i
+ - `npm i`
 
  
