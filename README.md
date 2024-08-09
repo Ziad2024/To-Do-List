@@ -28,10 +28,9 @@ Check out the live demo [here](https://to-do-list-woad-xi-96.vercel.app/).
 
  - Node.js and npm (Node Package Manager) installed on your machine.
 
-### Setup
+### Install Dependencies
 
- - **Install Dependencies:**
-   - `npm i`
+ - `npm i`
 
 ### Run the project:
  - `npm start`
