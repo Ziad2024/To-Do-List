@@ -5,7 +5,7 @@ It also supports search functionality and the ability to mark all tasks as compl
 
 ## Demo
 
-Check out the live demo [[here](https://to-do-list-woad-xi-96.vercel.app/)].
+Check out the live demo [here](https://to-do-list-woad-xi-96.vercel.app/).
 
 ## Screenshots
 
